@@ -27,7 +27,7 @@ function NotificationsScreen({ navigation }) {
 }
 
 function PastelariaScreen({ navigation }) {
-  return <MinhaPastel></MinhaPastel>;
+  return <MinhaPastelaria></MinhaPastelaria>;
 }
 
 function ListaScreen({ navigation }) {
